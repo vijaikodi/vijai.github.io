@@ -13,7 +13,7 @@ https:\\vijaikodi.github.io
 ```
 ![image](https://user-images.githubusercontent.com/73403829/144691577-b4086ad8-6764-4d39-a81c-fafb65b2bbb9.png)
 * Click on the OK button 
-* click Enter a name for this media source
+* click on Enter a name for this media source
 ![image](https://user-images.githubusercontent.com/73403829/144691669-c1661eaf-4ec8-4ffc-b5e5-56c6b5b0795e.png)
 * Type vijai on the Enter a name for this media source
 ![image](https://user-images.githubusercontent.com/73403829/144691714-a107177e-b74c-49d3-b9fe-3a7a7fa933ec.png)
