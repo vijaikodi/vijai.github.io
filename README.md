@@ -41,6 +41,12 @@ https:\\vijaikodi.github.io
 ![image](https://user-images.githubusercontent.com/73403829/144692036-67711a43-f90a-4e10-a821-db49d7b69570.png)
 * click on the vijai-repository
 ![image](https://user-images.githubusercontent.com/73403829/144692215-498f7850-942f-4ea0-8613-c9602f205ab7.png)
+* click on the Add-on Repository
+![image](https://user-images.githubusercontent.com/73403829/144692270-7ae5991a-3abe-4cde-bfe5-f3b09e8c8813.png)
+* click on the Gujal Addons Repository and then ResolveURL Repository
+![image](https://user-images.githubusercontent.com/73403829/144692359-42e41275-3aea-4c5e-b5c2-648fbef2d171.png)
+
+  
 
 
   
