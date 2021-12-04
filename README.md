@@ -1,5 +1,4 @@
-[![Github Repo Size](https://img.shields.io/github/repo-size/vijaikodi/vijaikodi.github.io)]()
-
+[![Github Repo Size](https://img.shields.io/github/repo-size/vijaikodi/vijaikodi.github.io)](https://github.com/vijaikodi/vijaikodi.github.io)
 
 # Installation Steps
 * Go to the settings 
