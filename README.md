@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/73403829/144691438-bb973d75-aaca-485a-bd80-96a849c741f9.png)
 * Click on the Add Source
 ![image](https://user-images.githubusercontent.com/73403829/144691463-43b9b676-aa99-4cb5-8988-a73d446f18b7.png)
-* Click on the <None>
+* Click on the None
 ![image](https://user-images.githubusercontent.com/73403829/144691486-9c67b717-9e82-4d9f-9876-e63d603c3796.png)
 * On the Enter Path type:
 ```
