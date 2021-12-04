@@ -1,3 +1,6 @@
+[![Github Repo Size](https://img.shields.io/github/repo-size/vijaikodi/vijaikodi.github.io)]()
+
+
 # Installation Steps
 * Go to the settings 
 ![image](https://user-images.githubusercontent.com/73403829/144691394-88ef8789-09c9-495a-a4ac-00984206e04d.png)
