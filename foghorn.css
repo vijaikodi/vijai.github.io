@@ -17,11 +17,11 @@ html, body {
         padding:1em;
         margin:auto;
         max-width:42em;
-        background:#fefefe;
+        background:#000000;
 	}
 body {
 	font: 1.3em "Vollkorn", Palatino, Times;
-	color: #333;
+	color: #41e922;
 	line-height: 1.4;
 	text-align: justify;
 	}
